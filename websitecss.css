@@ -1,0 +1,153 @@
+body 
+{
+	  background-image: url("pinkbg.jpg");
+	  background-color: #cccccc;
+}
+
+
+.header
+{
+	
+	background-color: white; 
+	border-style: solid;
+	border-width: medium;
+	border-color: white;
+	box-shadow: 5px 5px #888888;">
+}
+
+.menu{
+	background-color: #F5B7B1;
+	font-size: 20px;
+	vertical-align: top;
+	font-family: Candara;
+	
+}
+
+.main
+{
+	background-color:#fff2df;
+	border-style: solid;
+	border-width: medium;
+	border-color: white;
+	margin-bottom: 2px;
+	
+}
+
+.aboutme
+{
+	background-color:#f9ccac;
+	border-style: solid;
+	border-width: medium;
+	border-color: white;
+	margin-bottom: 2px;
+}
+
+.aboutword{
+	background-color: #F5B7B1;
+	font-size: 20px;
+	vertical-align: top;
+	font-family: Arial;
+	
+}
+
+
+.fivethings
+{
+	background-color:#f9ccac;
+	border-style: solid;
+	border-width: medium;
+	border-color: white;
+	margin-bottom: 2px;
+	float:right;
+}
+
+.fivethingsword
+{
+	background-color: #F5B7B1;
+	font-size: 20px;
+	vertical-align: top;
+	font-family: Arial;
+	
+}
+
+
+.myquestions
+{
+	 float:left;
+}
+
+
+.daughter
+{
+	
+	background-color:#f9ccac;
+	border-style: solid;
+	border-width: medium;
+	border-color: white;
+	margin-bottom: 2px;
+	width:1200px;
+	height:780px;
+}
+
+
+.daughterword{
+	background-color: #F5B7B1;
+	font-size: 20px;
+	vertical-align: top;
+	font-family: Arial;
+	
+}
+
+
+
+
+.friend
+{
+	background-color:#f9ccac;
+	border-style: solid;
+	border-width: medium;
+	border-color: white;
+	margin-bottom: 2px;
+}
+
+.friendword{
+	background-color: #F5B7B1;
+	font-size: 20px;
+	vertical-align: top;
+	font-family: Arial;
+	
+}
+
+
+
+.student
+{
+	background-color:#f9ccac;
+	border-style: solid;
+	border-width: medium;
+	border-color: white;
+	margin-bottom: 2px;
+}	
+
+
+.studentword{
+	background-color: #F5B7B1;
+	font-size: 20px;
+	vertical-align: top;
+	font-family: Arial;
+	
+}
+
+
+.next
+{
+	background-color: #F5B7B1;
+	float:right;
+	width:10%;
+	height:20%
+	color:white;
+	border-style: solid;
+	border-width: medium;
+	border-color: white;
+}
+	

@@ -1,0 +1,59 @@
+body 
+{
+	  background-image: url("pinkbg.jpg");
+	  background-color: #cccccc;
+}
+
+
+.header
+{
+	width:1200px;
+	height:70px;
+	background-color: white; 
+	border-style: solid;
+	border-width: medium;
+	border-color: white;
+	box-shadow: 5px 5px #888888;">
+}
+
+.menu{
+	background-color: #F5B7B1;
+	font-size: 20px;
+	vertical-align: top;
+	font-family: Candara;	
+}
+
+.main
+{
+	background-color:#fff2df;
+	border-style: solid;
+	border-width: medium;
+	border-color: white;
+	margin-bottom: 2px;
+	
+}
+
+
+.main2
+{
+	background-color:#f9ccac;
+	border-style: solid;
+	border-width: medium;
+	border-color: white;
+	margin-bottom: 2px;
+	
+}
+
+
+h2
+{
+color:black
+}
+
+hr{
+	border: 5px solid pink;
+}
+
+.danger {
+  border-left: 6px solid white;
+}
